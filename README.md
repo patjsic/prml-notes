@@ -1,2 +1,2 @@
 # prml-notes
-Jupyter Notebook notes for my first readthrough of PRML
+Jupyter Notebook notes for a thorough readthrough of PRML
